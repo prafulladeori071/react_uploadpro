@@ -1,0 +1,169 @@
+h1 {
+    font-size: xx-large;
+}
+
+.Image {
+    background-color: orange;
+    
+}
+.Imagine, .Int4{
+    margin-top: 150px;
+   
+    padding-left: 30%;
+    padding-right: 30%;
+}
+
+.Power {
+    padding-left: 22%;
+    padding-right: 20%;
+    
+}
+
+
+.Para1 {
+    margin-bottom: 50px;
+}
+.img-fluid{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.buttona {
+    text-align: center;
+
+}
+
+.button1 {
+   
+    margin-top: 70px;
+    color: white;
+    background-color: orangered;
+    border-radius: 12px; 
+    margin-bottom: 70px;
+    
+}
+.button2 {
+
+  
+    color: white;
+    background-color: orangered;
+    border-radius: 12px; 
+}
+
+.row1 {
+    padding-top: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-bottom: 5%;
+   
+  
+}
+
+.ggg{
+    /* border:2px solid black; */
+    margin-top: 5%;
+    padding: 5%;
+
+    /* border-radius: 20px;
+    border-width:50 px; */
+    
+}
+
+.gg{
+    padding-top: 5%;
+}
+
+.g{
+    margin-bottom: 5%;
+}
+
+.image2 {
+
+    text-align: center;
+    padding-top: 100px;
+}
+
+.fontf{
+    background-image: conic-gradient(red, yellow, green, blue, black);
+    padding-top: 200px;
+    padding-bottom: 200px;
+    font-size: xx-large;
+    
+}
+.John {
+    font-family:'Times New Roman', Times, serif;}
+
+.Manjil {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+
+}
+
+.box{
+    border-color: lime;
+    /* background-color: lightgrey; */
+    border: 2px solid;
+    margin-top: 8%;
+    border-radius: 20% ;
+
+}
+
+.box1{
+    border-color: lime;
+    /* background-color: lightgrey; */
+    border: 2px solid;
+    margin-top: 9%;
+    border-radius: 20% ;
+
+}
+
+.pl{
+    padding-top: 50px;
+}
+
+.pp, .pm {
+     /* padding-top: 50px; */
+     border: 2px solid;
+     border-color: black;
+     padding-left: 20px;
+     border-radius: 20px;
+}
+ 
+
+.Back{
+    background-color: lightcoral;
+}
+.Back2{
+    background-color:lightcyan;
+    border: 2px solid;
+  
+    /* padding-right: 50px;
+    padding-left: 50px; */
+    border-spacing: 20px;
+    border-radius: 20px;
+    margin-top: 70px;
+    
+}
+.padt{
+  
+    padding-bottom: 70px;
+   
+}
+
+
+
+.Prafulla{
+
+    padding: 170px;
+    font-size: 250%;
+    font-weight: bold;
+   
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-image: radial-gradient(circle, red, yellow, green);
+    border-radius: 50%;
+    /* background-image:url("/images/data4.png"); */
+    /* background-image: url(/images/data4.png); */
+}
+
+.tt{
+    text-align: center;
+}
